@@ -23,6 +23,4 @@ go.work.sum
 
 # env file
 .env
-/.idea/goathenaquery.iml
-/.idea/modules.xml
-/.idea/vcs.xml
+/.idea
